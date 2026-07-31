@@ -1,0 +1,4 @@
+interface:
+  display_name: "Charter"
+  short_description: "Make durable, high-leverage decisions"
+  default_prompt: "Use $charter to evaluate these options and recommend the highest long-term-value path."
