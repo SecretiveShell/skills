@@ -1,0 +1,6 @@
+interface:
+  display_name: "SecretiveShell Programming Policies"
+  short_description: "Readable code, expressive models, and clear ownership"
+  default_prompt: "Use $secretiveshell-code to apply my programming policies to the code, data models, and architecture of this task."
+policy:
+  allow_implicit_invocation: true
